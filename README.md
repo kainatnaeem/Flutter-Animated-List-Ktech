@@ -1,4 +1,4 @@
-# Flutter Animated List
+# Flutter Animated List using Provider
 
 A new Flutter project.
 
