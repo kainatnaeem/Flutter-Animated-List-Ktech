@@ -1,6 +1,10 @@
-# animatedlistflutterbyktech
+# Flutter Animated List
 
 A new Flutter project.
+
+https://user-images.githubusercontent.com/54583829/188331630-a435b3eb-f63a-4298-8c75-f9009f3be494.mp4
+
+
 
 ## Getting Started
 
